@@ -1,5 +1,5 @@
 # Image-Recognition
-Manipulating images using numpy and Cascade Classifier and OpenCv
+Manipulating images using numpy, Cascade Classifier and OpenCv
 
 If we take the original image like this -
 
