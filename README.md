@@ -1,6 +1,10 @@
 # Image-Recognition
 Manipulating images using numpy, Cascade Classifier and OpenCv
 
+## image.ipynb file consists of the code which converts a normal image to RGB type and some other basic image manipulation
+
+## face.ipyng file extracts the face from the photo and recognizes the facial part by putting a rectangle on it.
+
 If we take the original image like this -
 
 ![The image](doctor_strange.jpg)
